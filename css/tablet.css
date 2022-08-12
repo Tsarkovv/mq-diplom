@@ -1,0 +1,26 @@
+@media (min-width: 641px) and (max-width: 1199px) {
+  header {
+    background-image: url(../img/banner-bg-tablet.jpg);
+    background-position: bottom;
+  }
+  .head {
+    padding-left: 38px;
+  }
+  .menu_item {
+    display:none;
+  }
+  .menu_burger {
+    padding-right: 38px;
+    display: block;
+  }
+  .header_title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .header_text {
+    padding: 103px 0 103px 0;
+    font-size: 40px;
+    line-height: 55px;
+  }
+  }
